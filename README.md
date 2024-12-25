@@ -70,11 +70,8 @@ This repository contains a collection of Data Structures and Algorithms (DSA)-ba
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork this repository and create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-If you have any queries or need assistance, feel free to reach out via email: [your-email@gmail.com](mailto:rishabhjain1175@gmail.com).
+If you have any queries or need assistance, feel free to reach out via email:rishabhjain1175@gmail.com
 
 ---
 
