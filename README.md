@@ -48,18 +48,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA)-ba
 - **Data Structures**: Graphs, Heaps, Multisets, Trees.
 - **Algorithms**: Dijkstra's Algorithm, Backtracking, Greedy Huffman Encoding.
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dsa-projects.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd dsa-projects
-   ```
-3. Install dependencies (if any):
-   ```bash
-   pip install -r requirements.txt
+
    ```
 
 ## How to Use
