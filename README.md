@@ -64,5 +64,5 @@ If you have any queries or need assistance, feel free to reach out via email:ris
 
 ---
 
-**Note**: This repository is a work in progress. More features and improvements will be added soon!
+**Note**: This repository is a work in progress. More features and improvements will be added soon.
 
