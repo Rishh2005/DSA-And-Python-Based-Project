@@ -43,13 +43,53 @@ This repository contains a collection of Data Structures and Algorithms (DSA)-ba
      - Input the start and end locations.
      - Get the shortest path with additional metrics like distance and traffic delays.
 
+### 5. **Hangman Game**
+   - **Description**: A Python-based word-guessing game.
+   - **Key Features**:
+     - Interactive console game.
+     - Supports multiple difficulty levels.
+     - Great for understanding string manipulation and basic control flows.
+   - **Usage**:
+     - Run the script and guess letters to solve the word.
+
+### 6. **Drum Pad**
+   - **Description**: A fun drum simulator created using Python.
+   - **Key Features**:
+     - Play drum sounds interactively.
+     - Enhances understanding of GUI development.
+   - **Usage**:
+     - Open the application and tap the buttons to play sounds.
+
+### 7. **Piano Tiles**
+   - **Description**: A simple piano tile game built with Python.
+   - **Key Features**:
+     - Real-time gameplay with increasing difficulty.
+     - Demonstrates event handling and GUI-based design.
+   - **Usage**:
+     - Run the game and click on the tiles to score points.
+
+### 8. **To-Do App**
+   - **Description**: A task manager to organize daily routines.
+   - **Key Features**:
+     - Add, update, delete, and track tasks.
+     - Integrates with alarms and reminders.
+     - Demonstrates CRUD operations and persistent storage.
+   - **Usage**:
+     - Open the app and manage your daily tasks.
+
+### 9. **ATM Simulation**
+   - **Description**: A Python-based simulation of an ATM system.
+   - **Key Features**:
+     - User authentication.
+     - Cash withdrawal, deposit, and balance check.
+     - Focuses on implementing control flows and secure data handling.
+   - **Usage**:
+     - Run the script and interact with the ATM interface.
+
 ## Technologies Used
 - **Programming Language**: Python.
-- **Data Structures**: Graphs, Heaps, Multisets, Trees.
-- **Algorithms**: Dijkstra's Algorithm, Backtracking, Greedy Huffman Encoding.
-
-
-   ```
+- **Data Structures**: Graphs, Heaps, Multisets, Trees, Strings, Lists.
+- **Algorithms**: Dijkstra's Algorithm, Backtracking, Greedy Huffman Encoding, Custom logic.
 
 ## How to Use
 1. Select a project folder.
@@ -60,9 +100,8 @@ This repository contains a collection of Data Structures and Algorithms (DSA)-ba
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork this repository and create a pull request.
 
 ## Contact
-If you have any queries or need assistance, feel free to reach out via email:rishabhjain1175@gmail.com
+If you have any queries or need assistance, feel free to reach out via email: **rishabhjain1175@gmail.com**
 
 ---
 
 **Note**: This repository is a work in progress. More features and improvements will be added soon.
-
