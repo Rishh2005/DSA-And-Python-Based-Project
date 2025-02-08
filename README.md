@@ -1,5 +1,4 @@
 # DSA-Based-Project
-
 This repository contains a collection of Data Structures and Algorithms (DSA)-based projects designed to enhance problem-solving skills and understanding of core concepts. Each project tackles a specific problem using advanced algorithms and data structures.
 
 ## Projects Overview
