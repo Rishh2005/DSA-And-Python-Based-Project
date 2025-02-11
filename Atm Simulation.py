@@ -1,5 +1,4 @@
-import logging
-
+import logging
 # Set up logging
 logging.basicConfig(filename='atm_simulation.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
