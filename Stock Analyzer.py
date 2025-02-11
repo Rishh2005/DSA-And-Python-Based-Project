@@ -5,6 +5,8 @@ import numpy as np
 import csv
 from pathlib import Path
 
+
+
 class StockOptionAnalyzer:
     def __init__(self):
         self.data = pd.DataFrame(columns=['date', 'price'])
