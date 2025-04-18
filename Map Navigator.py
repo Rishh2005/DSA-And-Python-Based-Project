@@ -17,7 +17,6 @@ from dataclasses import dataclass
 import pandas as pd
 import numpy as np
 
-
 class EnhancedMapNavigator:
     def __init__(self):
         self.graph = {}
