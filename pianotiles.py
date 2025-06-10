@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 import sqlite3
-
 # Create a database to store transactions
 conn = sqlite3.connect("money_manager.db")
 c = conn.cursor()
